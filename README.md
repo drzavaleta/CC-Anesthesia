@@ -1,3 +1,3 @@
-# CC-Anesthesia
+# CC Anesthesia
 
-This is a test.
+Helpful information
