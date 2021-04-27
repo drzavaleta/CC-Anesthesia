@@ -4,30 +4,39 @@ layout: default
 
 # Adductor Canal Block
 
-* Equipment: 
-  * ![21g, 90mm needle](./_images/21g_90mm.jpg)
-  * chloroprep stick
-  * sterile gloves
-  * wide U/S probe
+## Equipment
+* 21g, 90mm needle
+* chloroprep stick
+* sterile gloves
+* wide U/S probe
 
-![Block Needle](./_images/21g_90mm.jpg)
+## Medication
+* 0.5% ropivicaine (5mg/mL)
 
-* Medication: 
-  * 0.5% ropivicaine (5mg/mL)
-* Dose: 
-  * 2mg/kg max
-  * Example: 50kg can have 100mg = 20mL injection
-* Personnel: 
+## Dose
+* 2mg/kg max
+* Example: 50kg can have 100mg = 20mL injection
+
+## Personnel
   * anes tech to take pictures
   * person to aspirate and inject
-* Plan: 
-  * ultrasound with right side of monitor corresponding with lateral side of patient
-  * Needle lateral to pt and move medial
-  * nerve is lateral to artery
-  * place needle and take photo
-  * aspirate and inject
-  * take after photo
+
+## Plan
+* ultrasound with right side of monitor corresponding with lateral side of patient
+* Needle lateral to pt and move medial
+* nerve is lateral to artery
+* place needle and take photo
+* aspirate and inject
+* take after photo
+
+## Notes
+* best if can get under nerve sheath and spread under
+* may feel an additional "pop" of getting through nerve sheath
+
+## Videos
 * [How to Video](https://youtu.be/aiW_rQRKpnw)
-* Notes:
-  * best if can get under nerve sheath and spread under
-  * may feel an additional "pop" of getting through nerve sheath
+
+## Images
+
+![Block Needle](./_images/21g_90mm.jpg)
+[Block Needle](./_images/21g_90mm.jpg)
