@@ -1,5 +1,6 @@
 ---
 layout: default
+title: CC Anesthesia
 ---
 
 ## Plans
