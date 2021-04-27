@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./rigidbronch.md).
+[Rigid Bronch](./rigidbronch.md)
+[Adductor Nerve Block](./adductornerveblock.md)
 
 There should be whitespace between paragraphs.
 
