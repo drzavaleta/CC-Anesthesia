@@ -5,7 +5,7 @@ layout: default
 # Adductor Canal Block
 
 * Equipment: 
-  * 21g, 90mm needle
+  * ![21g, 90mm needle](./_images/21g_90mm.jpg)
   * chloroprep stick
   * sterile gloves
   * wide U/S probe
