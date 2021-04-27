@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Rigid Camera
 permalink: /https://www.ccanesthesia.com/rigidbronch.md/
 ---
