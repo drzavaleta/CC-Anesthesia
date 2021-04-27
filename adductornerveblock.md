@@ -39,4 +39,3 @@ layout: default
 ## Images
 
 ![Block Needle](./_images/21g_90mm.jpg)
-[Block Needle](./_images/21g_90mm.jpg)
