@@ -1,4 +1,4 @@
-## [Case Notes] (casenotes.md)
+[Case Notes] (casenotes.md)
 
 ## Drugs of Interest
 
