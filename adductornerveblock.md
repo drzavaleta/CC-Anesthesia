@@ -10,7 +10,7 @@ layout: default
   * sterile gloves
   * wide U/S probe
 
-![Block Needle](./_images/21g_90mm.jpg)
+![Block Needle](/_images/21g_90mm.jpg)
 
 * Medication: 
   * 0.5% ropivicaine (5mg/mL)
