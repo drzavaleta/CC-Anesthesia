@@ -38,4 +38,4 @@ layout: default
 
 ## Images
 
-![Block_Needle](https://www.ccanesthesia.com/_images/21g_90mm.jpg)
+![Block_Needle](./_images/21g_90mm.jpg)
