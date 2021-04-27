@@ -1,6 +1,4 @@
-# Home Page
-
-## Case Notes
+## [Case Notes] (casenotes.md)
 
 ## Drugs of Interest
 
