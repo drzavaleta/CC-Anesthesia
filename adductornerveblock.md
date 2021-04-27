@@ -38,6 +38,4 @@ layout: default
 
 ## Images
 
-![Block Needle](https://www.ccanesthesia.com/_images/21g_90mm.jpg)
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+![Block_Needle](https://www.ccanesthesia.com/_images/21g_90mm.jpg)
