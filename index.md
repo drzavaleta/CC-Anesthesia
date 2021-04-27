@@ -6,6 +6,8 @@ layout: default
 * [Rigid Bronch](./rigidbronch.md)
 * [Adductor Nerve Block](./adductornerveblock.md)
 
+## Epic Tips
+* [Adding Images](./addimage.md)
 
 ## Example Code
 
