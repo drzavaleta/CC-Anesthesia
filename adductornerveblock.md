@@ -27,6 +27,7 @@ layout: default
   * place needle and take photo
   * aspirate and inject
   * take after photo
+* [How to Video](https://youtu.be/aiW_rQRKpnw)
 * Notes:
   * best if can get under nerve sheath and spread under
   * may feel an additional "pop" of getting through nerve sheath
