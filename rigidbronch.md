@@ -7,9 +7,9 @@ layout: default
 ## Propofol and Alfentanil
 
 ### Prep
-* 1 mL (500mcg) of Alfentanyl PLUS 19 mL of Propofol
+* 1 mL (500mcg) of Alfentanil PLUS 19 mL of Propofol
 * Will run at 200mcg/kg/min (175-225 range)
-* Other 1 mL Alfentanyl dilute in 9mL (Results in 50mcg/mL dilution)
+* Other 1 mL Alfentanil dilute in 9mL (Results in 50mcg/mL dilution)
 
 ### Intraop
 * PIV in saph for access
@@ -18,7 +18,7 @@ layout: default
 * If pt moves, give 5mcg/kg. (Eg if 10kg child moves, give 1mL)
 
 ### Epic Documentation
-* Alfentanyl rate = Propofol rate/380
+* Alfentanil rate = Propofol rate/380
 
 ## Ketamine and Precedex
 
