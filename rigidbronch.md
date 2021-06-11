@@ -12,10 +12,11 @@ layout: default
 * Other 1 mL Alfentanil dilute in 9mL (Results in 50mcg/mL dilution)
 
 ### Intraop
+* Sevo mask induction
 * PIV in saph for access
-* Start infusion once PIV inserted.
+* Start infusion once PIV inserted
 * After Sevo induction, give neb lido (while sevo high and before infusion at steady state. Will prevent laryngospasm.)
-* If pt moves, give 5mcg/kg. (Eg if 10kg child moves, give 1mL)
+* If pt moves, give 5mcg/kg alfentanil. (Eg if 10kg child moves, give 1mL alfentanil)
 
 ### Epic Documentation
 * Alfentanil rate = Propofol rate/380
