@@ -4,7 +4,7 @@ layout: default
 
 # Rigid Bronch
 
-## Propofol and Alfentanyl
+## Propofol and Alfentanil
 
 ### Prep
 * 1 mL (500mcg) of Alfentanyl PLUS 19 mL of Propofol
