@@ -6,8 +6,8 @@ title: CC Anesthesia
 ## Plans
 
 * [Adductor Nerve Block](./adductornerveblock.md)
-* [Rigid Bronch](./rigidbronch.md)
 * [Palmer Kidney Transplant](./palmerkidney.md)
+* [Rigid Bronch](./rigidbronch.md)
 
 ## Epic Tips
 
