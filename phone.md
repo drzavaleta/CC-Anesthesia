@@ -3,15 +3,12 @@
 |People|Number|
 | ---- | --- |
 |Amanda Tydlaska|3625|
-|Chandra Beals|7207|
 |Julianne NP|2147|
 |Lucy Navarrete|1179|
 |Krista & Jamie|7140, 6395|
-|Napoleon Burt|4423|
 |Tracey Gayle|1840|
 |Vinh Kha|1016|
 |Wendy Wood|1167|
-
 
 |Place|Number|
 | ---- | --- |
