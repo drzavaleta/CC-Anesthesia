@@ -2,13 +2,13 @@
 
 |People|Number|
 | ---- | --- |
-|Amanda Tydlaska|3625|
-|Julianne NP|2147|
-|Lucy Navarrete|1179|
+|Amanda |3625|
+|Julianne |2147|
+|Lucy |1179|
 |Krista & Jamie|7140, 6395|
-|Tracey Gayle|1840|
-|Vinh Kha|1016|
-|Wendy Wood|1167|
+|Tracey |1840|
+|Vinh |1016|
+|Wendy |1167|
 
 |Place|Number|
 | ---- | --- |
