@@ -35,7 +35,7 @@ layout: default
 
 ### Immunosuppressant (Surgeon ordered)
 
-- Simulect or Thymoglobulin started after central line placement
+- Simulect or Thymoglobulin started after central line placement (prefer to give centrally)
 - Simulect
   - infuse over 30 minutes
   - no premed required
