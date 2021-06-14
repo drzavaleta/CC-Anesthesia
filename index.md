@@ -9,6 +9,10 @@ title: CC Anesthesia
 * [Palmer Kidney Transplant](./palmerkidney.md)
 * [Rigid Bronch](./rigidbronch.md)
 
+## References
+
+* [Department Phone Numbers](./phone.md)
+
 ## Epic Tips
 
 * [Adding Images](./addimage.md)
