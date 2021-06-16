@@ -70,6 +70,7 @@ layout: default
 - Systolic goal: >120mmHg (or 95% of normal for age)
 - Preferred to use volume before a pressor
 - If pressor needed, use ***phenylephrine*** infusion (avoid ***dopamine***)
+- If pressure too high, use ***nicardipine*** (0.5mcg/kg/min up to 5)
 - Goal CVP: 8-12mmHg
 - On clamp removal-expect BP drop. So plan ahead with fluid load up front 30-60ml/kg and possible colloid
 - Plan presser gtt to start around anastomosis to keep means at goal 100-120% of baseline SBP
@@ -77,6 +78,8 @@ layout: default
 ## Post Op
 - Go straight to ICU
 - They will have urine replaced cc/cc with crystalloid so you can be liberal with fluids
+-  ***Heparin***
+   -  Surgeon may request it be started in OR (10 units/kg/hr)
 
 ## Blood Product Administration
 
