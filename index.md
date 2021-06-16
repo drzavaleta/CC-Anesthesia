@@ -17,3 +17,6 @@ title: CC Anesthesia
 
 * [Adding Images](./addimage.md)
 
+## Syndromes
+
+* [Syndromes](./syndromes/index.md)
