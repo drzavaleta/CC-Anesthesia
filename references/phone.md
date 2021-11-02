@@ -12,21 +12,21 @@
 
 |Place|Number|
 | ---- | --- |
-|Acute Recovery |685-882-4050 |
-|Anesthesia Billing Office |685-882-1860 |
-|Anesthesia Office |685-882-4054 |
+|Acute Recovery |682-885-4050 |
+|Anesthesia Billing Office |682-885-1860 |
+|Anesthesia Office |682-885-4054 |
 |ASC Office|817-605-2546 |
-|CRNA Workroom |685-882-7079, 685-882-7078 |
-|DSC Surgery Front Desk |685-882-1518 |
+|CRNA Workroom |682-885-7079, 682-885-7078 |
+|DSC Surgery Front Desk |682-885-1518 |
 |Harris Hospital |817-250-4983, 817-870-7334 |
 |Harris Hospital - Pt Suite| 817-250-2180 |
-|IR Department |685-882-1201 |
-|MDA Workroom |685-882-6926, 685-882-6925 |
-|MRI Station |685-882-7558, 685-882-7147 |
+|IR Department |682-885-1201 |
+|MDA Workroom |682-885-6926, 682-885-6925 |
+|MRI Station |682-885-7558, 682-885-7147 |
 |NE MDAs |817-605-2805 |
-|NP/PAA Offices |685-882-4738, 685-882-5959 |
-|OR Control |685-882-4051 |
-|Pharmacy OR |685-882-4739 |
-|PICU |685-882-4268 |
-|Pre-Recovery |685-882-4196, 685-882-4022 |
-|Pre-Anesthesia Nursing Desk |685-882-3404 |
+|NP/PAA Offices |682-885-4738, 682-885-5959 |
+|OR Control |682-885-4051 |
+|Pharmacy OR |682-885-4739 |
+|PICU |682-885-4268 |
+|Pre-Recovery |682-885-4196, 682-885-4022 |
+|Pre-Anesthesia Nursing Desk |682-885-3404 |
