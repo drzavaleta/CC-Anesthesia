@@ -14,7 +14,7 @@ title: CC Anesthesia
 
 ## References
 
-* [Covid Testing](./references/covidtesting.md)
+* [Covid Testing Requirements](./references/covidtesting.md)
 * [Department Phone Numbers](./references/phone.md)
 * [Neonatal/Infant Admission Requirements](./references/neonataladmissions.md)
 * [Syndromes](./syndromes/index.md)

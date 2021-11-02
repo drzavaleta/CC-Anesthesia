@@ -1,4 +1,4 @@
-# Anesthesia Department Phone Numbers
+# Department Phone Numbers
 
 |People|Number|
 | ---- | --- |
