@@ -21,5 +21,4 @@ neonatologist on call
 ## Harris
 * Call Harris NICU secretary to determine physician contact who will
 be called 30 minutes prior to transport.
-* After hours, the on call neonatologist can be reached at: <br/> 817-822-
-5937
+* After hours, the on call neonatologist can be reached at: 817-822-5937
