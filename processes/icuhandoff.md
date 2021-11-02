@@ -2,50 +2,24 @@
 layout: default
 ---
 
-# ICU Handoff
+# ICU Handoff Process
 
+## PICU
 
+* Vocera "PI Admission" 30 minutes prior to end of case
+* Secretary will transfer you to apropriate intensivist
+  
+## NICU
 
-## Propofol and Alfentanil
+* NICU nurse who transports patient to PACU prior to OR will advise
+MD of name of "rounding" neonatologist. This will be the contact to
+call post-operatively. Again, call to give report 30 minutes prior to
+transport.
+* If the rounding physician is no longer available, please call the
+neonatologist on call 
 
-### Prep
-* 1 mL (500mcg) of Alfentanil PLUS 19 mL of Propofol
-* Will run at 200mcg/kg/min (175-225 range)
-* Other 1 mL Alfentanil dilute in 9mL (Results in 50mcg/mL dilution)
-
-### Intraop
-* Sevo mask induction
-* PIV in saph for access
-* Start infusion once PIV inserted
-* After Sevo induction, give neb lido (while sevo high and before infusion at steady state. Will prevent laryngospasm.)
-* If pt moves, give 5mcg/kg alfentanil. (Eg if 10kg child moves, give 1mL alfentanil)
-
-### Epic Documentation
-* Alfentanil rate = Propofol rate/380
-
-## Ketamine and Precedex
-
-### Preop: 
-* Versed
-
-### Intraop:
-* Fentanyl 1mcg/kg
-* Decadron 0.5mg/kg
-* Precedex 1mcg/kg over 10 min
-* Ketamine 1mg/kg bolus
-* Ketamine 2mg/kg in 100cc buretrol
-* Zofran (Do not use glycopyrrolate!)
-* Propofol in syringe (in case)
-
-### Equipment
-* Curved blade
-* Lidocaine LTA (wait 3 minutes)
-* Flex connector
-* Straight connector
-* Magills
-
-### At End
-* Propofol induction
-* Sevo
-* Intubate
-* Suction stomach
+## Harris
+* Call Harris NICU secretary to determine physician contact who will
+be called 30 minutes prior to transport.
+* After hours, the on call neonatologist can be reached at: </br> 817-822-
+5937
