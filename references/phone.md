@@ -5,7 +5,7 @@
 |Amanda |3625|
 |Julianne |2147|
 |Lucy |1179|
-|Krista & Jamie|7140, 6395|
+|Krista & Jamie|7140 <br/> 6395|
 |Tracey |1840|
 |Vinh |1016|
 |Wendy |1167|
