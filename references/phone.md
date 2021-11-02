@@ -16,7 +16,7 @@
 |Anesthesia Billing Office |682-885-1860 |
 |Anesthesia Office |682-885-4054 |
 |ASC Office|817-605-2546 |
-|CRNA Workroom |682-885-7079 &nbsp; 682-885-7078 |
+|CRNA Workroom |682-885-7079 <br/> 682-885-7078 |
 |DSC Surgery Front Desk |682-885-1518 |
 |Harris Hospital |817-250-4983, 817-870-7334 |
 |Harris Hospital - Pt Suite| 817-250-2180 |
