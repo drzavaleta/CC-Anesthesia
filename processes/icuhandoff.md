@@ -6,8 +6,8 @@ layout: default
 
 ## PICU
 
-* Vocera "PI Admission" 30 minutes prior to end of case
-* Secretary will transfer you to apropriate intensivist
+* Vocera "PI Admission" 30 minutes prior to end of case.
+* Secretary will transfer you to apropriate intensivist.
   
 ## NICU
 
@@ -16,7 +16,7 @@ MD of name of "rounding" neonatologist. This will be the contact to
 call post-operatively. Again, call to give report 30 minutes prior to
 transport.
 * If the rounding physician is no longer available, please call the
-neonatologist on call 
+neonatologist on call.
 
 ## Harris
 * Call Harris NICU secretary to determine physician contact who will
