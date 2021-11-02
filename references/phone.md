@@ -21,6 +21,7 @@
 |Harris Hospital |817-250-4983 <br/> 817-870-7334 |
 |Harris Hospital - Pt Suite| 817-250-2180 |
 |IR Department |682-885-1201 |
+|IT |682-885-7999|
 |MDA Workroom |682-885-6926 <br/> 682-885-6925 |
 |MRI Station |682-885-7558 <br/> 682-885-7147 |
 |NE MDAs |817-605-2805 |
@@ -30,3 +31,5 @@
 |PICU |682-885-4268 |
 |Pre-Recovery |682-885-4196 <br/> 682-885-4022 |
 |Pre-Anesthesia Nursing Desk |682-885-3404 |
+|Scheduling |682-885-2657|
+|Security (Door Alarm) |682-885-1928|
