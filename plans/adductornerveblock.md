@@ -38,6 +38,6 @@ layout: default
 
 ## Images
 
-* ![Block Needle](/CC-Anesthesia/assets/images/21g_90mm_size.JPG)
+* [Block Needle](./docs/assets/images/21g_90mm_size.JPG)
 
-test12
+test14
