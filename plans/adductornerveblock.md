@@ -38,6 +38,6 @@ layout: default
 
 ## Images
 
-[Block Needle](./_images/21g_90mm.jpeg)
+![Block Needle](./assets/21g_90mm.jpeg)
 
-test2
+test3
