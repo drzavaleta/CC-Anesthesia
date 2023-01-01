@@ -38,17 +38,4 @@ layout: default
 
 ## Images
 
-* Test of links
-* [test](https://drzavaleta.github.io/CC-Anesthesia/docs/assets/images/21g_90mm_size.jpeg)
-
-* ![test](../docs/assets/images/21g_90mm_size.jpeg)
-* [test](../docs/assets/images/21g_90mm_size.jpeg)
-
-* [test](./docs/assets/images/21g_90mm_size.jpeg)
-
-* [test](/docs/assets/images/21g_90mm_size.jpeg)
-* [test](docs/assets/images/21g_90mm_size.jpeg)
-* [test](/assets/images/21g_90mm_size.jpeg)
-* [test](assets/images/21g_90mm_size.jpeg)
-
-test16
+* ![Needle Pic](/docs/assets/images/21g_90mm_size.jpeg)
