@@ -38,4 +38,4 @@ layout: default
 
 ## Images
 
-* ![Needle Pic](/docs/assets/images/21g_90mm_size.jpeg)
+![Needle Pic](/docs/assets/images/21g_90mm.jpeg)
