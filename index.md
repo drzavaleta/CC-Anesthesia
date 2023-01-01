@@ -5,9 +5,9 @@ title: CC Anesthesia
 
 ## Plans
 
-* [Adductor Nerve Block](./plans/adductornerveblock.md)
-* [Palmer Kidney Transplant](./plans/palmerkidney.md)
 * [Rigid Bronch](./plans/rigidbronch.md)
+* [Adductor Nerve Block](./plans/adductornerveblock.md)
+* [Kidney Transplant](./plans/kidneytransplant.md)
 
 ## Processes
 * [ICU Handoff](./processes/icuhandoff.md)
@@ -16,6 +16,7 @@ title: CC Anesthesia
 
 * [Covid Testing Requirements](./references/covidtesting.md)
 * [Department Phone Numbers](./references/phone.md)
+* [Non-Cardiac vs Cardiac Criteria](./references/noncardiac_cardiac_criteria.md)
 * [Neonatal/Infant Admission Requirements](./references/neonataladmissions.md)
 * [Syndromes](./syndromes/index.md)
 * [Helpful Links](./references/links.md)
