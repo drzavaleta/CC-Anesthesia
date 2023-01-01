@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Palmer Kidney Transplant
+# Kidney Transplant
 
 ## PreOp
 
@@ -22,6 +22,8 @@ layout: default
 ### Solu-Medrol IV
 
 - Dose and timing dependent on surgeon and whether dose was given as a premed for ***Thymoglobulin***
+
+---
 
 ## Intraop
 
@@ -75,21 +77,17 @@ layout: default
 - On clamp removal-expect BP drop. So plan ahead with fluid load up front 30-60ml/kg and possible colloid
 - Plan presser gtt to start around anastomosis to keep means at goal 100-120% of baseline SBP
 
+---
+
 ## Post Op
 - Go straight to ICU
 - They will have urine replaced cc/cc with crystalloid so you can be liberal with fluids
 -  ***Heparin***
    -  Surgeon may request it be started in OR (10 units/kg/hr)
 
+---
+
 ## Blood Product Administration
 
 - 10-20kg: will receive one unit of blood
 - Over 20kg: preference is to try an avoid transfusion
-
-
-
-
-
-
-
-
