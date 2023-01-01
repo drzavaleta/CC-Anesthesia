@@ -1,5 +1,5 @@
 # Helpful Links
 
-* [Schedule](https://ccanesthesia.opentempo.com)
+* [Schedule](https://www.qgenda.com)
 * [Remote Access](https://myaccess.cookchildrens.org)
 * [Webmail](https://webmail.cookchildrens.org)
