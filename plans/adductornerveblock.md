@@ -36,6 +36,8 @@ layout: default
 ## Videos
 * [How to Video](https://youtu.be/aiW_rQRKpnw)
 
+{% include youtube.html id="aiW_rQRKpnw" %}
+
 ## Images
 
 ![Needle Pic](/docs/assets/images/21g_90mm.jpeg)
