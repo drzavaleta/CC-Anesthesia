@@ -38,6 +38,20 @@ layout: default
 
 ## Images
 
-* [Block Needle](./docs/assets/images/21g_90mm_size.JPG)
+* Test of links
+* [test](https://drzavaleta.github.io/CC-Anesthesia/docs/assets/images/21g_90mm_size.jpeg)
+* [test](https://drzavaleta.github.io/CC-Anesthesia/docs/assets/images/21g_90mm_size.JPEG)
+* [test](https://drzavaleta.github.io/CC-Anesthesia/docs/assets/images/21g_90mm_size.jpg)
+* [test](https://drzavaleta.github.io/CC-Anesthesia/docs/assets/images/21g_90mm_size.JPG)
 
-test14
+* [test](../docs/assets/images/21g_90mm_size.jpeg)
+* [test](../docs/assets/images/21g_90mm_size.JPEG)
+* [test](../docs/assets/images/21g_90mm_size.jpg)
+* [test](../docs/assets/images/21g_90mm_size.JPG)
+
+* [test](./docs/assets/images/21g_90mm_size.jpeg)
+* [test](./docs/assets/images/21g_90mm_size.JPEG)
+* [test](./docs/assets/images/21g_90mm_size.jpg)
+* [test](./docs/assets/images/21g_90mm_size.JPG)
+
+test15
