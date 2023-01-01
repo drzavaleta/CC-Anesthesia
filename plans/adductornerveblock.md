@@ -34,7 +34,6 @@ layout: default
 * may feel an additional "pop" of getting through nerve sheath
 
 ## Videos
-* [How to Video](https://youtu.be/aiW_rQRKpnw)
 
 {% include youtube.html id="aiW_rQRKpnw" %}
 
