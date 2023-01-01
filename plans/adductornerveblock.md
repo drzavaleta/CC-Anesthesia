@@ -34,10 +34,10 @@ layout: default
 * may feel an additional "pop" of getting through nerve sheath
 
 ## Videos
-* ![How to Video](https://youtu.be/aiW_rQRKpnw)
+* [How to Video](https://youtu.be/aiW_rQRKpnw)
 
 ## Images
 
-* ![Block Needle](/CC-Anesthesia/assets/images/21g_90mm_size.jpeg)
+* ![Block Needle](https://en.wikipedia.org/wiki/Image)
 
-test10
+test11
