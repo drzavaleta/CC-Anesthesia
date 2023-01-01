@@ -1,4 +1,4 @@
-# Criteria: Non-Cardiac vs Cardiac
+# Non-Cardiac vs Cardiac
 
 (v2022)
 

@@ -3,7 +3,7 @@ layout: default
 title: CC Anesthesia
 ---
 
-## Plans
+## Anesthetic Plans
 
 * [Rigid Bronch](./plans/rigidbronch.md)
 * [Adductor Nerve Block](./plans/adductornerveblock.md)
@@ -18,7 +18,7 @@ title: CC Anesthesia
 * [Department Phone Numbers](./references/phone.md)
 * [Non-Cardiac vs Cardiac Criteria](./references/noncardiac_cardiac_criteria.md)
 * [Neonatal/Infant Admission Requirements](./references/neonataladmissions.md)
-* [Drug Interactions](./references/druginteractions.md)
+* [Drug-Drug Interactions](./references/druginteractions.md)
 * [Syndromes](./syndromes/index.md)
 * [Helpful Links](./references/links.md)
 

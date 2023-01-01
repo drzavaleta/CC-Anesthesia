@@ -4,12 +4,12 @@ layout: default
 
 # Rigid Bronch
 
-## Propofol and Alfentanil
+## Option 1: Propofol and Alfentanil
 
 ### Prep
-* 1 mL (500mcg) of Alfentanil PLUS 19 mL of Propofol
+* Order "Alfentanyl/Propofol" infustion from pharmacy (500mcg Alfentanil + 190mg Propofol)
 * Will run at 200mcg/kg/min (175-225 range)
-* Other 1 mL Alfentanil dilute in 9mL (Results in 50mcg/mL dilution)
+* 1 mL Alfentanil dilute in 9mL (Results in 50mcg/mL dilution)
 
 ### Intraop
 * Sevo mask induction
@@ -21,7 +21,14 @@ layout: default
 ### Epic Documentation
 * Alfentanil rate = Propofol rate/380
 
-## Ketamine and Precedex
+| Propofol Rate | Alfentanyl Equivalent Rate |
+| - | - |
+| 250 mcg/kg/min | 0.65 |
+| 225 mcg/kg/min | 0.60 |
+| 200 mcg/kg/min | 0.53 |
+| 175 mcg/kg/min | 0.45 |
+
+## Option 2: Ketamine and Precedex
 
 ### Preop: 
 * Versed
